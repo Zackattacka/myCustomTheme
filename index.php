@@ -69,7 +69,6 @@
 
   <body onload="typeWriter()">
 
-
     <!--Header-->
     <a href="Portfolio/Portfolio.html">
       <div id="header" class="container-fluid bg-dark text-white">
